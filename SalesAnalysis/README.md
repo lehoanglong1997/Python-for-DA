@@ -13,4 +13,4 @@ Q4: What products are most often sold together?
 
 Q5: What product sold the most? Why do you think it sold the most?
 
-I mostly use pandas and matplotlib to do the analyst.
+Pandas and Matplotlib are mainly used here.
