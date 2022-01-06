@@ -1,4 +1,4 @@
-In this problem, we need to find out which universities that are qualified Robert's criteria.
+In this problem, we need to find out which universities that are suitable with Robert's criteria.
 Let's explore the dictionary and then combine all files to help him!
 
 The University file (university_info.csv) is too large, please download from here:
